@@ -1,2 +1,1 @@
-click-predict-fix
-=================
+Train on log(variable+1) then submit exp(prediction)-1
